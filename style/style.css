@@ -1,0 +1,10 @@
+html {
+    background-color:wheat;
+    text-align: justify;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+}
+/* comment */
+.list-item-center {
+    text-align: center;
+}
